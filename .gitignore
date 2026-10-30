@@ -1,0 +1,9 @@
+# Secrets: never commit these
+.env
+.env.test
+
+# Generated folders
+node_modules
+dist
+*.tsbuildinfo
+.DS_Store
